@@ -1,2 +1,2 @@
 # calculator-gui
-A simple calculator GUI
+Created using Tkinter just for fun 😋
